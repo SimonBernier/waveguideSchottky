@@ -1,3 +1,4 @@
+% Copyright [2023] [Simon Bernier]
 function FDTD_tilted(maxf,fp,v,Es,Lz,Profile, tskip, zskip)
 % 2D FDTD on Staggered grid
 % Solving Maxwell's Equations with the plasma source term 
